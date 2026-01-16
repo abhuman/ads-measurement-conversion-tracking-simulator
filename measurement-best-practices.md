@@ -1,0 +1,4 @@
+- Avoid duplicate conversions
+- Validate timestamps
+- Use attribution windows
+- Monitor ROI anomalies
